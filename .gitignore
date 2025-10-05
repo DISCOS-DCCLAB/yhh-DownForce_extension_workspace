@@ -106,3 +106,7 @@ third-party/folly/
 
 *.csv
 *.png
+
+db_bench_df-lv
+db_bench_vanilla
+db_bench

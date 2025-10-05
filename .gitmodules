@@ -1,0 +1,16 @@
+[submodule "DF-Leveled"]
+	path = DF-Leveled
+	url = https://github.com/DISCOS-LAB/DownForce.git
+	branch = DF-Leveled 
+[submodule "DownForce_mod_space"]
+	path = DownForce_mod_space
+	url = https://github.com/Neokriz/DownForce.git
+	branch = DF-Leveled_mod1
+[submodule "rocksdb_9.10.0_dcc"]
+	path = rocksdb_9.10.0_dcc
+	url = https://github.com/Neokriz/rocksdb_9.10.0_dcc.git
+	branch = YCSB_IMM_L0Intra_L0SBS
+[submodule "repo_DownForce"]
+	path = repo_DownForce
+	url = https://github.com/DISCOS-LAB/DownForce.git
+	branch = main
